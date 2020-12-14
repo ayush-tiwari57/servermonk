@@ -3,7 +3,7 @@
 
 I'm a **Competitive Programmer** and **Web Developer**, currently studying in **JSS Academy of Technical Education** in **Information Technology** stream. I love to solve problems and learn about new technology. In my free time I like to watch movies, read blogs and participate in online contests. I am open to collaborate on interesting projects.
 - Codeforces Id- [servermonk](https://codeforces.com/profile/servermonk) (Specialist)
-- CodeChef Id- [ayush572000](https://www.codechef.com/users/ayush572000) (4 Star)
+- CodeChef Id- [ayush572000](https://www.codechef.com/users/ayush572000) (5 Star)
 
 ## Skill Set :muscle:
 
